@@ -8,10 +8,7 @@
       [Cub3d](https://github.com/williamollio/cub3d) - A 3d doom/wolfenstein like game using raycasting technology.</br>
       [Weather_App](https://github.com/AndorGunczer/Weather_App) - A website where you can check the live weather
         conditions in the city you are interested in.</br>
-      [Chatroom](https://github.com/AndorGunczer/Chatroom) - A simplified chat where you can talk with others in
-        different rooms real time.
-- 🥅 2022 Goals: Learn advanced front-end technologies, become fluent german, get admitted to the Open University in
-    the UK, get my first internship, finish the 42Core Curriculum
+- 🥅 2022 Goals: Learn specializations in C++, become fluent german, get admitted to Fernuni Hagen in Germany, get my first internship, finish the 42Core Curriculum
 - ⚡ Fun fact: Ex E-sport in game leader
 <!-- 
 ### Connect with me:
@@ -41,7 +38,6 @@
 <img align="left" alt="HTML5" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> </br>
     <div style="margin: 0px auto;">
         <img align="left" alt="GitHub" width="65px" height="65px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
