@@ -5,9 +5,8 @@
 - I am a software developer student at [42Heilbronn](https://www.42heilbronn.de/en/), which is part of the [42Network](https://42.fr/en/network-42).
 - 🌱 I’m currently learning special use-cases of C++, algorithms and data-structures, ethical hacking methodologies, german, and soft-skills
 - ⚡ Current Projects:</br>
-      [Cub3d](https://github.com/williamollio/cub3d) - A 3d doom/wolfenstein like game using raycasting technology.</br>
-      [Weather_App](https://github.com/AndorGunczer/Weather_App) - A website where you can check the live weather
-        conditions in the city you are interested in.</br>
+      [Inception](https://github.com/AndorGunczer/Inception) - Virtualize several Docker images, creating them in your new personal virtual machine.</br>
+      [HackerRank](https://github.com/AndorGunczer/HackerRank) - Practicing Algorithms and Data Structures</br>
 - 🥅 2022 Goals: Learn specializations in C++, become fluent german, get admitted to Fernuni Hagen in Germany, get my first internship, finish the 42Core Curriculum
 - ⚡ Fun fact: Ex E-sport in game leader
 <!-- 
