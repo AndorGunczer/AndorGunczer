@@ -30,7 +30,7 @@
 
 ### Languages and Tools:
 
-<div align="center" style="margin: 20% auto">
+<div align="center">
 <img align="left" alt="C" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
