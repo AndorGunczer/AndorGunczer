@@ -7,7 +7,7 @@
 - ⚡ Current Projects:</br>
       [Inception](https://github.com/AndorGunczer/Inception) - Virtualize several Docker images, creating them in your new personal virtual machine.</br>
       [HackerRank](https://github.com/AndorGunczer/HackerRank) - Practicing Algorithms and Data Structures</br>
-- 🥅 2022 Goals: Learn specializations in C++, become fluent german, get admitted to Fernuni Hagen in Germany, get my first internship, finish the 42Core Curriculum
+- 🥅 2022 Goals: Learn specializations in C++, become fluent german, get admitted to Open Uni UK, get my first internship/apprenticeship in Digital Marketing/IT, finish the 42Core Curriculum
 - ⚡ Fun fact: Ex E-sport in game leader
 <!-- 
 ### Connect with me:
