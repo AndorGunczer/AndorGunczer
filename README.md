@@ -2,24 +2,16 @@
 
 <br>
 
-- I am a software developer student at [42Heilbronn](https://www.42heilbronn.de/en/), which is part of the [42Network](https://42.fr/en/network-42).
-- 🌱 I’m currently learning special use-cases of C++, algorithms and data-structures, ethical hacking methodologies, german, and soft-skills
+- Used to be an IT student, used to be a part of a programming school, used to work in IT, and now I want to work in Software!
+- 🌱 I’m currently learning Web Development and AI.
 - ⚡ Current Projects:</br>
-      [Inception](https://github.com/AndorGunczer/Inception) - Virtualize several Docker images, creating them in your new personal virtual machine.</br>
-      [HackerRank](https://github.com/AndorGunczer/HackerRank) - Practicing Algorithms and Data Structures</br>
-- 🥅 2022 Goals: Learn specializations in C++, become fluent german, get admitted to Open Uni UK, get my first internship/apprenticeship in Digital Marketing/IT, finish the 42Core Curriculum
+      [TheOdinProject](https://www.theodinproject.com/) - HTML, CSS, JS, React, Node, MongoDB, Git.</br>
+      [Chatbot Prompt Extension](https://github.com/AndorGunczer/pdf_chatbot) - So that the chatbot can "learn" private closed-source information</br>
+- 🥅 2023 Goals: Switch fields to Software Testing/Development, Finish TheOdinProject, Educate people about the dangers of AI
 - ⚡ Fun fact: Ex E-sport in game leader
 <!-- 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
@@ -32,7 +24,6 @@
 <div align="center">
 <img align="left" alt="C" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="65px" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
