@@ -21,7 +21,7 @@
 
 ### Skills:
 
-- C -> Projects: 42-Minishell, cub3d
+- C -> Projects: [42-Minishell](https://github.com/AndorGunczer/42-Minishell), [cub3d](https://github.com/AndorGunczer/cub3d)
 - C++ ->  Projects: CPP_OOP_Deep_Dive, Arduino-Projects
 - Python -> Projects: pdf-chatbot (private), MultiHost-Disk-Checker
 - JS -> Projects: corso-cafe-dynamic, etch-a-sketch, rock-paper-scissors
