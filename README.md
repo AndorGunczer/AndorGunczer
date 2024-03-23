@@ -21,11 +21,11 @@
 
 ### Skills:
 
-- C -> 42-Minishell, cub3d
+- C -> Projects: 42-Minishell, cub3d
 - C++ ->  Projects: CPP_OOP_Deep_Dive, Arduino-Projects
 - Python -> Projects: pdf-chatbot (private), MultiHost-Disk-Checker
-- JS -> corso-cafe-dynamic, etch-a-sketch, rock-paper-scissors
-- Cisco Certified Network Associate: packet-tracer-landing (to be released)
-- Docker -> 42-Inception
+- JS -> Projects: corso-cafe-dynamic, etch-a-sketch, rock-paper-scissors
+- Cisco Certified Network Associate: Projects: packet-tracer-landing (to be released)
+- Docker -> Projects: 42-Inception
 - RHEL, Debian -> Work Experience at CUCULUS GMBH
 - Communication Skills with a Business Efficient Mindset
