@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning Internet of Things and Cloud.
 - ⚡ Currently Im:</br>
       Programming an Intenet Relay Chat Server in C++ as part of the 42Curriculum</br>
-      </br>
+      Programming Circuit Boards through Arduino UNO (embedded programming)
+      AWS Cloud Practitioner Cert Prep
+        </br>
 <!-- 
 ### Connect with me:
 
