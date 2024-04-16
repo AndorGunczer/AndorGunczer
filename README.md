@@ -23,7 +23,7 @@
 
 - C -> Projects: [42-Minishell](https://github.com/AndorGunczer/42-Minishell), [cub3d](https://github.com/AndorGunczer/cub3d)
 - C++ ->  Projects: [42-irc](https://github.com/AndorGunczer/42-ft_irc), [CPP_OOP_Deep_Dive](https://github.com/AndorGunczer/CPP_OOP_Deep_Dive), [Arduino-Projects](https://github.com/AndorGunczer/Arduino-Projects)
-- Python -> Projects: pdf-chatbot (private), [MultiHost-Disk-Checker](https://github.com/AndorGunczer/MultiHost-Disk-Checker)
+- Python -> Projects: pdf-chatbot (private), [MultiHost-Disk-Checker](https://github.com/AndorGunczer/MultiHost-Disk-Checker), [Chat Program](https://github.com/AndorGunczer/terminal_chat_app)
 - JS -> Projects: [corso-cafe-dynamic](https://github.com/AndorGunczer/corso-cafe-dynamic), [etch-a-sketch](https://github.com/AndorGunczer/etch-a-sketch), [rock-paper-scissors](https://github.com/AndorGunczer/rock-paper-scissors)
 - Cisco Certified Network Associate: Projects: packet-tracer-landing (to be released)
 - Docker -> Projects: [42-Inception](https://github.com/AndorGunczer/42-Inception)
