@@ -1,4 +1,4 @@
-![arbeitszeugnis_ag_1](https://github.com/AndorGunczer/AndorGunczer/assets/80578738/fa4ce724-da94-4b32-9f87-efcbe2dd505f)# Hi there, I'm Andor Gunczer - 👋 
+# Hi there, I'm Andor Gunczer - 👋 
 
 <br>
 
