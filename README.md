@@ -21,6 +21,7 @@
 
 ### Skills:
 
+- Web -> Projects: [42-Transcendence(in progress)](https://github.com/AndorGunczer/42-transcendence), [Freelance Project 02(in progress)](https://michawebsite.netlify.app/)
 - C -> Projects: [42-Minishell](https://github.com/AndorGunczer/42-Minishell), [cub3d](https://github.com/AndorGunczer/cub3d)
 - C++ ->  Projects: [42-irc](https://github.com/AndorGunczer/42-ft_irc), [CPP_OOP_Deep_Dive](https://github.com/AndorGunczer/CPP_OOP_Deep_Dive), [Arduino-Projects](https://github.com/AndorGunczer/Arduino-Projects)
 - Python -> Projects: pdf-chatbot (private), [MultiHost-Disk-Checker](https://github.com/AndorGunczer/MultiHost-Disk-Checker), [Chat Program](https://github.com/AndorGunczer/terminal_chat_app), [Database Manipulator](https://github.com/AndorGunczer/rectangle_database_manipulator)
